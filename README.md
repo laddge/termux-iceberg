@@ -22,7 +22,7 @@ If you already have another color scheme, it is recommended to move it.
 ## License
 This plugin is under the MIT-License.
 
-See also [LICENSE](LICENSE).
+See also [LICENSE](https://github.com/laddge/termux-iceberg/blob/master/LICENSE).
 
 ## Author
 Laddge
