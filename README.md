@@ -17,7 +17,7 @@ wget https://laddge.tk/termux-iceberg/colors.properties
 termux-reload-settings
 ```
 
-If you already have other color schemes, It is recommended to move it.
+If you already have other color schemes, it is recommended to move it.
 
 ## License
 This plugin is under the MIT-License.
